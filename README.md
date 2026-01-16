@@ -1,29 +1,26 @@
-# vue-pure
+# Flappy MicBird
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple Flappy bird with a twist. You can use the microphone to control the bird as well!  
+This project was made using vanilla Javascript and Vue.js
 
-## Recommended IDE Setup
+You can see the project following [this link](https://flappy-micbird.netlify.app/)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+![Blue bird starting a new jorney!](public/img.png)
 
-## Customize configuration
+## 🪛 Tools
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- Vue.js
+    - Vue Router
+- Javascript
+- Canvas API
 
-## Project Setup
+## Running locally
 
-```sh
-npm install
-```
+To run the project in your machine take the following steps
 
-### Compile and Hot-Reload for Development
+1. Clone the repository
+2. Open the terminal in project folder
+3. Instal the dependencies with ```npm install```
+4. Run with ```npm run serve```
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+You will have the project running in [localhost:5173](http://localhost:5173);
