@@ -9,7 +9,6 @@ export default defineConfig({
     plugins: [
         vue(),
     ],
-    base: '/BR_frontend',
     resolve: {
         alias: {
             '@': fileURLToPath(new URL('./src', import.meta.url))
