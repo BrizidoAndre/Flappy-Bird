@@ -10,7 +10,6 @@ You can see the project following [this link](https://flappy-micbird.netlify.app
 ## 🪛 Tools
 
 - Vue.js
-    - Vue Router
 - Javascript
 - Canvas API
 
